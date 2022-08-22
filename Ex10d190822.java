@@ -6,7 +6,7 @@ public class Ex10d190822 {
 
         String produto, nomevendedor;
         
-
+//não esquecer de fazer as outras variaveis
         Scanner scanner = new Scanner(System.in);
 
     }
