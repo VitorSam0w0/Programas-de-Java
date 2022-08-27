@@ -1,3 +1,6 @@
+/*9. Dado nome, preço de compra e o preço de venda de uma mercadoria. 
+  Faça um programa que mostre o nome  e o lucro em reais obtido com a venda dela. */
+
 package S1Exs;
 import java.util.Scanner;
 

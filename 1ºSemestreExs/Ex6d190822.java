@@ -1,3 +1,7 @@
+/*6. Escreva um programa para calcular o consumo médio de um automóvel (média em Km/l),
+  sendo que  conhecemos à distância total percorrida 
+  e o volume de combustível consumido pare percorrê-la. */
+
 package S1Exs;
 import java.util.Scanner;
 
