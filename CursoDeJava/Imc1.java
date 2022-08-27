@@ -1,3 +1,4 @@
+package CursoDeJava;
 import java.util.Scanner;
 public class Imc1 {
     public static void main (String[] args) {
