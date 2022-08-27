@@ -1,4 +1,6 @@
-package Poo.Imc;
+//Tentar Arrumar o Erro quando tiver Tempo
+
+package AtividadesparaTreino.Poo.Imc;
 import java.util.Scanner;
 
 public class imc {

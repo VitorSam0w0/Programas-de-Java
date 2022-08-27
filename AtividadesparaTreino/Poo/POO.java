@@ -1,6 +1,6 @@
-package Poo;
+package AtividadesparaTreino.Poo;
 
-import Poo.Imc.imc;
+import AtividadesparaTreino.Poo.Imc.imc;
 
 public class POO {
 
