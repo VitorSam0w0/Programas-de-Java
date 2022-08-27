@@ -2,7 +2,7 @@
   e as notas das 3 provas que ele obteve no semestre. 
   No  final informar o nome do aluno e a sua média (aritmética).*/
 
-package S1Exs;
+package PrimeiroSemestreExs.S1Exs;
 import java.util.Scanner;
 public class Ex7d190822 {
     public static void main(String[] args) {

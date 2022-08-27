@@ -2,7 +2,7 @@
   transforme em um único valor em  segundos todas estas informações 
   e mostre este resultado no vídeo. */
 
-package S1Exs;
+package PrimeiroSemestreExs.S1Exs;
 import java.util.Scanner;
 
 public class Ex5d190822 {

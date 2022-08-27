@@ -2,7 +2,7 @@
   sendo que  conhecemos à distância total percorrida 
   e o volume de combustível consumido pare percorrê-la. */
 
-package S1Exs;
+package PrimeiroSemestreExs.S1Exs;
 import java.util.Scanner;
 
 public class Ex6d190822 {

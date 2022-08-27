@@ -1,6 +1,4 @@
-package AtividadesparaTreino.Imc;
-
-import AtividadesparaTreino.Imc.Scanner.scanner
+package AtividadesparaTreino.Imc.imc;
 
 import AtividadesparaTreino.Imc.Scanner.scanner;
 
