@@ -1,3 +1,7 @@
+/*7. Escrever um programa que leia o nome de um aluno
+  e as notas das 3 provas que ele obteve no semestre. 
+  No  final informar o nome do aluno e a sua média (aritmética).*/
+
 package S1Exs;
 import java.util.Scanner;
 public class Ex7d190822 {

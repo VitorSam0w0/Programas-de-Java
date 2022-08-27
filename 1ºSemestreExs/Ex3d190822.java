@@ -1,3 +1,8 @@
+/*3. A área de um círculo é medida pela seguinte fórmula: Área = PI * (R*R).
+  Sabendo disso, faça um programa  que peça para o usuário digitar o valor (R)aio,
+  e após, calcule e mostre na tela a área do círculo.
+  Observação:  Considere que o valor de PI seja igual a 3.1415. */
+
 package S1Exs;
 import java.util.Scanner;
 
@@ -14,5 +19,7 @@ public class Ex3d190822 {
         area = pi*(raio*raio);
 
         System.out.println("Area Total: "+area);
+
+
     }
 }

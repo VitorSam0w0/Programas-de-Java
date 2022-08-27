@@ -1,3 +1,7 @@
+/*10. Dado nome do vendedor, quantidade de unidades do produto que o mesmo vendeu durante o mês 
+  e o preço  unitário do produto, faça um programa que mostre nome do vendedor e o valor total obtido com as vendas.  
+  Considere a venda de um único item. */
+
 package S1Exs;
 import java.util.Scanner;
 

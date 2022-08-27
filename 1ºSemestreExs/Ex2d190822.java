@@ -1,3 +1,6 @@
+/*2. Faça um programa para ler a base e a altura de um triângulo. 
+     Em seguida, escreva a área dele. Obs.: Área = (Base * Altura) / 2 */
+
 package S1Exs;
 import java.util.Scanner;
 

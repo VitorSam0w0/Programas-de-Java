@@ -1,3 +1,7 @@
+/*5. Faça um programa onde dados valores para hora, minuto e segundo,
+  transforme em um único valor em  segundos todas estas informações 
+  e mostre este resultado no vídeo. */
+
 package S1Exs;
 import java.util.Scanner;
 
