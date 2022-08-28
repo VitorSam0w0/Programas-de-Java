@@ -4,29 +4,32 @@ package AtividadesparaTreino.Poo.Imc;
 import java.util.Scanner;
 
 public class imc {
-    public double peso;
-    public double altura;
-    public double imc;
 
-    public class scanner {
+    public static void maion(String[] args) {
 
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("Peso: ");
-        peso = scanner.nextDouble();
+        double peso;
+        double altura;
+        double imc;
     
-        System.out.println("Altura: ");
-        altura = scanner.nextDouble();
+            Scanner scanner = new Scanner(System.in);
+            System.out.println("Peso: ");
+            peso = scanner.nextDouble();
         
+            System.out.println("Altura: ");
+            altura = scanner.nextDouble();
+            
+            
         
-    }
-
-    public imc(double peso, double altura) {
+    
+        imc(double peso, double altura) {
         this.peso = peso;
         this.altura = altura;
+        }
+    
+        public void calcularimc() {
+            this.imc = (this.peso/( this.altura * this.altura ));
+        }
+    
     }
-
-    public void calcularimc() {
-        this.imc = (this.peso/( this.altura * this.altura ));
-
-    }
+   
 }

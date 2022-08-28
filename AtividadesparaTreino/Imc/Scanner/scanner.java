@@ -4,6 +4,9 @@ import java.util.Scanner;
 
 public class scanner {
 
+    public static void main(String[] args) {
+
+        
     double peso, altura, imc;
 
     Scanner scanner = new Scanner(System.in);
@@ -19,5 +22,7 @@ public class scanner {
     System.out.println("Imc : "+imc);
 
 
-    
+ 
+    }
+   
 }

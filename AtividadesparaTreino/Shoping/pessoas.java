@@ -7,7 +7,7 @@ public class pessoas {
         saidaeentrada aspessoas = new saidaeentrada();
 
         aspessoas.saida = 0;
-        aspessoas.entrada = 600;
+        aspessoas.entrada = 0;
 
         aspessoas.sairao(300);
 
