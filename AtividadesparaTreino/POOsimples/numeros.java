@@ -1,8 +1,6 @@
 package AtividadesparaTreino.POOsimples;
 
-import AtividadesparaTreino.POOsimples.numeros;
-import AtividadesparaTreino.POOsimples.oPOOSimples.numero.numero;
-
+import AtividadesparaTreino.POOsimples.onumero;
 public class numeros {
 
     public static void main(String[] args) {

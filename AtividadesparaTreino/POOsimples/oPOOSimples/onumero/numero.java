@@ -1,4 +1,4 @@
-package AtividadesparaTreino.POOsimples.oPOOSimples.numero;
+package AtividadesparaTreino.POOsimples.oPOOSimples.onumero;
 public class numero {
     public int n1;
     public int n2;
