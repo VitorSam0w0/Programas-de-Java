@@ -16,7 +16,7 @@
 
 */
 
-package S1Exs;
+package PrimeiroSemestreExs.S1Exs;
 import java.util.Scanner;
 
 public class Ex8d190822 {

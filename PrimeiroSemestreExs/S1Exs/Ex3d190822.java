@@ -3,7 +3,7 @@
   e após, calcule e mostre na tela a área do círculo.
   Observação:  Considere que o valor de PI seja igual a 3.1415. */
 
-package S1Exs;
+package PrimeiroSemestreExs.S1Exs;
 import java.util.Scanner;
 
 public class Ex3d190822 {

@@ -2,7 +2,7 @@
   e o preço  unitário do produto, faça um programa que mostre nome do vendedor e o valor total obtido com as vendas.  
   Considere a venda de um único item. */
 
-package S1Exs;
+package PrimeiroSemestreExs.S1Exs;
 import java.util.Scanner;
 
 public class Ex10d190822 {

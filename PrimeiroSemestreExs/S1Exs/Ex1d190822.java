@@ -1,7 +1,8 @@
 /*1. Faça um programa para ler as seguintes informações de uma pessoa:
      Nome, Idade, Sexo, Peso, Telefone.*/
 
-package S1Exs;
+     package PrimeiroSemestreExs.S1Exs;
+
 import java.util.Scanner;
 public class Ex1d190822 {
 
