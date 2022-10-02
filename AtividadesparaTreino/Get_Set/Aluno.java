@@ -11,17 +11,23 @@ public class Aluno {
 
     public String getNome(String nome) {
         return nome;
+        
     }
 
     public void setIdade(int idade) {
+
         if (idade>0 && idade<120) {
             this.idade = idade;
             System.out.println("Idade Registrada!");
+
         } 
+
         else {
             System.out.println("Erro!");
         }
+
     }
+
     public int getIdade(int idade) {
         return idade;
     }
