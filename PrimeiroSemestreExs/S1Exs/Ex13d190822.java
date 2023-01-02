@@ -1,4 +1,4 @@
-/* 13. Refaça o exercício anterior considerando que o aluno receberá um acréscimo ao invés de um desconto. */
+/* 13. Refaça o exercício anterior considerando que o funcionario receberá um acréscimo ao invés de um desconto. */
 
 package PrimeiroSemestreExs.S1Exs;
 
